@@ -1,0 +1,121 @@
+id,url,expected_class,category,detector_level,detector_title,flagged,confusion_label
+1,https://www.accessbankplc.com/,legitimate,official_nigerian_domain,safe,Official Access Bank,no,true_negative
+2,https://www.gtbank.com/,legitimate,official_nigerian_domain,safe,Official GTBank,no,true_negative
+3,https://www.gtco.ng/,legitimate,official_nigerian_domain,safe,Official GTBank,no,true_negative
+4,https://www.zenithbank.com/,legitimate,official_nigerian_domain,safe,Official Zenith Bank,no,true_negative
+5,https://www.firstbanknigeria.com/,legitimate,official_nigerian_domain,safe,Official First Bank,no,true_negative
+6,https://www.ubagroup.com/,legitimate,official_nigerian_domain,safe,Official UBA,no,true_negative
+7,https://www.fidelitybank.ng/,legitimate,official_nigerian_domain,safe,Official Fidelity Bank,no,true_negative
+8,https://www.fidelitybankplc.com/,legitimate,official_nigerian_domain,safe,Official Fidelity Bank,no,true_negative
+9,https://www.fcmb.com/,legitimate,official_nigerian_domain,safe,Official FCMB,no,true_negative
+10,https://www.sterling.ng/,legitimate,official_nigerian_domain,safe,Official Sterling Bank,no,true_negative
+11,https://www.sterlingbankng.com/,legitimate,official_nigerian_domain,safe,Official Sterling Bank,no,true_negative
+12,https://www.wemabank.com/,legitimate,official_nigerian_domain,safe,Official Wema Bank,no,true_negative
+13,https://www.alat.ng/,legitimate,official_nigerian_domain,safe,Official Wema Bank,no,true_negative
+14,https://www.unionbankng.com/,legitimate,official_nigerian_domain,safe,Official Union Bank,no,true_negative
+15,https://www.polarisbanklimited.com/,legitimate,official_nigerian_domain,safe,Official Polaris Bank,no,true_negative
+16,https://www.stanbicibtcbank.com/,legitimate,official_nigerian_domain,safe,Official Stanbic IBTC,no,true_negative
+17,https://www.stanbicibtc.com/,legitimate,official_nigerian_domain,safe,Official Stanbic IBTC,no,true_negative
+18,https://www.ecobank.com/,legitimate,official_nigerian_domain,safe,Official Ecobank,no,true_negative
+19,https://www.keystonebankng.com/,legitimate,official_nigerian_domain,safe,Official Keystone Bank,no,true_negative
+20,https://www.unitybankng.com/,legitimate,official_nigerian_domain,safe,Official Unity Bank,no,true_negative
+21,https://www.unitybank.com/,legitimate,official_nigerian_domain,safe,Official Unity Bank,no,true_negative
+22,https://www.jaizbankplc.com/,legitimate,official_nigerian_domain,safe,Official Jaiz Bank,no,true_negative
+23,https://www.providusbank.com/,legitimate,official_nigerian_domain,safe,Official Providus Bank,no,true_negative
+24,https://www.titantrustbank.com/,legitimate,official_nigerian_domain,safe,Official Titan Trust Bank,no,true_negative
+25,https://www.globusbank.com/,legitimate,official_nigerian_domain,safe,Official Globus Bank,no,true_negative
+26,https://www.premiumtrustbank.com/,legitimate,official_nigerian_domain,safe,Official Premium Trust Bank,no,true_negative
+27,https://www.lotusbank.com/,legitimate,official_nigerian_domain,safe,Official Lotus Bank,no,true_negative
+28,https://www.suntrustng.com/,legitimate,official_nigerian_domain,safe,Official SunTrust Bank,no,true_negative
+29,https://www.optimusbank.com/,legitimate,official_nigerian_domain,safe,Official Optimus Bank,no,true_negative
+30,https://www.optimusbank.ng/,legitimate,official_nigerian_domain,safe,Official Optimus Bank,no,true_negative
+31,https://www.signaturebank.ng/,legitimate,official_nigerian_domain,safe,Official Signature Bank,no,true_negative
+32,https://www.signaturebankng.com/,legitimate,official_nigerian_domain,safe,Official Signature Bank,no,true_negative
+33,https://www.parallexbank.com/,legitimate,official_nigerian_domain,safe,Official Parallex Bank,no,true_negative
+34,https://www.thealternativebank.com/,legitimate,official_nigerian_domain,safe,Official The Alternative Bank,no,true_negative
+35,https://www.thealternativebank.ng/,legitimate,official_nigerian_domain,safe,Official The Alternative Bank,no,true_negative
+36,https://www.tajbank.com/,legitimate,official_nigerian_domain,safe,Official TAJBank,no,true_negative
+37,https://www.alphamorganbank.com/,legitimate,official_nigerian_domain,safe,Official Alpha Morgan Bank,no,true_negative
+38,https://www.novambl.com/,legitimate,official_nigerian_domain,safe,Official Nova Bank,no,true_negative
+39,https://www.kuda.com/,legitimate,official_nigerian_domain,safe,Official Kuda,no,true_negative
+40,https://www.opayweb.com/,legitimate,official_nigerian_domain,safe,Official OPay,no,true_negative
+41,https://www.opay.com/,legitimate,official_nigerian_domain,safe,Official OPay,no,true_negative
+42,https://www.palmpay.com/,legitimate,official_nigerian_domain,safe,Official PalmPay,no,true_negative
+43,https://www.moniepoint.com/,legitimate,official_nigerian_domain,safe,Official Moniepoint,no,true_negative
+44,https://www.getcarbon.co/,legitimate,official_nigerian_domain,safe,Official Carbon,no,true_negative
+45,https://www.fairmoney.io/,legitimate,official_nigerian_domain,safe,Official FairMoney,no,true_negative
+46,https://www.paystack.com/,legitimate,official_nigerian_domain,safe,Official Paystack,no,true_negative
+47,https://www.flutterwave.com/,legitimate,official_nigerian_domain,safe,Official Flutterwave,no,true_negative
+48,https://www.interswitch.com/,legitimate,official_nigerian_domain,safe,Official Interswitch,no,true_negative
+49,https://www.interswitchgroup.com/,legitimate,official_nigerian_domain,safe,Official Interswitch,no,true_negative
+50,https://www.remita.net/,legitimate,official_nigerian_domain,safe,Official Remita,no,true_negative
+51,https://www.cbn.gov.ng/,legitimate,official_nigerian_domain,safe,Official Central Bank of Nigeria,no,true_negative
+52,https://www.ndic.gov.ng/,legitimate,official_nigerian_domain,safe,Official NDIC,no,true_negative
+53,https://www.nibss-plc.com.ng/,legitimate,official_nigerian_domain,safe,Official NIBSS,no,true_negative
+54,https://www.nimc.gov.ng/,legitimate,official_nigerian_domain,safe,Official NIMC,no,true_negative
+55,https://www.enaira.gov.ng/,legitimate,official_nigerian_domain,safe,Official eNaira,no,true_negative
+56,https://www.jumia.com.ng/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+57,https://www.konga.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+58,https://www.nairaland.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+59,https://punchng.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+60,https://www.vanguardngr.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+61,https://www.channelstv.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+62,https://www.thisdaylive.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+63,https://www.premiumtimesng.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+64,https://www.nairametrics.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+65,https://www.techpoint.africa/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+66,https://www.google.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+67,https://www.facebook.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+68,https://twitter.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+69,https://www.whatsapp.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+70,https://www.instagram.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+71,https://www.youtube.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+72,https://www.amazon.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+73,https://www.microsoft.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+74,https://www.apple.com/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+75,https://www.wikipedia.org/,legitimate,other_legitimate_site,clear,No bank impersonation found,no,true_negative
+76,https://www.gtbannk.com/verify-bvn,phishing,demo_typosquat_bvn,danger,Not official GTBank,yes,true_positive
+77,https://accessbank-login.xyz/update-account,phishing,demo_brand_risky_tld,danger,Not official Access Bank,yes,true_positive
+78,https://zenithbank-secure.site/reactivate,phishing,demo_brand_risky_tld,danger,Not official Zenith Bank,yes,true_positive
+79,https://www.gtbannk.com/,phishing,typosquat,danger,Fake GTBank link,yes,true_positive
+80,https://www.firstbanknigerla.com/,phishing,typosquat,danger,Fake First Bank link,yes,true_positive
+81,https://www.zenithbanl.com/,phishing,typosquat,danger,Fake Zenith Bank link,yes,true_positive
+82,https://www.accessbankplcc.com/,phishing,typosquat,danger,Fake Access Bank link,yes,true_positive
+83,https://www.ubagrouup.com/,phishing,typosquat,danger,Fake UBA link,yes,true_positive
+84,https://www.fidelitybanl.ng/,phishing,typosquat,danger,Fake Fidelity Bank link,yes,true_positive
+85,https://www.wemabanl.com/,phishing,typosquat,danger,Fake Wema Bank link,yes,true_positive
+86,https://www.unionbanknng.com/,phishing,typosquat,danger,Fake Union Bank link,yes,true_positive
+87,https://www.kudaa.com/,phishing,typosquat,danger,Fake Kuda link,yes,true_positive
+88,https://www.paystak.com/,phishing,typosquat,danger,Fake Paystack link,yes,true_positive
+89,https://gtbank-secure.xyz/internet-banking,phishing,brand_risky_tld_scam_path,danger,Not official GTBank,yes,true_positive
+90,https://firstbank-login.top/verify-account,phishing,brand_risky_tld_scam_path,danger,Not official First Bank,yes,true_positive
+91,https://uba-online.club/secure-login,phishing,brand_risky_tld_scam_path,danger,Not official UBA,yes,true_positive
+92,https://zenithbank-verify.info/update-bvn,phishing,brand_risky_tld_scam_path,danger,Not official Zenith Bank,yes,true_positive
+93,https://accessbank-kyc.online/update-kyc,phishing,brand_risky_tld_scam_path,danger,Not official Access Bank,yes,true_positive
+94,https://fcmb-unlock.site/unlock-account,phishing,brand_risky_tld_scam_path,danger,Not official FCMB,yes,true_positive
+95,https://sterlingbank-support.tk/reset-token,phishing,brand_risky_tld_scam_path,danger,Not official Sterling Bank,yes,true_positive
+96,https://wemabank-help.ml/validate-bvn,phishing,brand_risky_tld_scam_path,danger,Not official Wema Bank,yes,true_positive
+97,https://kuda-verify.click/nin-verify,phishing,brand_risky_tld_scam_path,danger,Not official Kuda,yes,true_positive
+98,https://opay-login.loan/secure-login,phishing,brand_risky_tld_scam_path,danger,Not official OPay,yes,true_positive
+99,https://palmpay-update.fun/update-account,phishing,brand_risky_tld_scam_path,danger,Not official PalmPay,yes,true_positive
+100,https://moniepoint-kyc.icu/kyc-update,phishing,brand_risky_tld_scam_path,danger,Not official Moniepoint,yes,true_positive
+101,https://paystack-secure.live/web-login,phishing,brand_risky_tld_scam_path,danger,Not official Paystack,yes,true_positive
+102,https://flutterwave-login.cfd/confirm-account,phishing,brand_risky_tld_scam_path,danger,Not official Flutterwave,yes,true_positive
+103,https://cbn-verify.xyz/verify-bvn,phishing,brand_risky_tld_scam_path,danger,Not official Central Bank of Nigeria,yes,true_positive
+104,https://ndic-claim.online/update-account,phishing,brand_risky_tld_scam_path,danger,Not official NDIC,yes,true_positive
+105,https://nimc-nin.site/verify-nin,phishing,brand_risky_tld_scam_path,danger,Not official NIMC,yes,true_positive
+106,https://enaira-activate.top/reactivate,phishing,brand_risky_tld_scam_path,danger,Not official eNaira,yes,true_positive
+107,http://gtbank-login.com/internet-banking,phishing,http_impersonation,danger,Not official GTBank,yes,true_positive
+108,http://firstbank-secure.com/online-banking,phishing,http_impersonation,danger,Not official First Bank,yes,true_positive
+109,https://xn--gtbnk-3ve.com/,phishing,punycode_lookalike,clear,No bank impersonation found,no,false_negative
+110,https://gtbank-ng.xyz/account-restricted,phishing,brand_risky_tld_scam_path,danger,Not official GTBank,yes,true_positive
+111,https://uba-ng.info/restricted-account,phishing,brand_risky_tld_scam_path,danger,Not official UBA,yes,true_positive
+112,https://accessbankng.club/bvn-update,phishing,brand_risky_tld_scam_path,danger,Not official Access Bank,yes,true_positive
+113,https://firstbankng.online/bvn-verify,phishing,brand_risky_tld_scam_path,danger,Not official First Bank,yes,true_positive
+114,https://zenith-bank.site/verify-bvn,phishing,brand_risky_tld_scam_path,danger,Not official Zenith Bank,yes,true_positive
+115,https://fidelitybank-ng.xyz/update-bvn,phishing,brand_risky_tld_scam_path,danger,Not official Fidelity Bank,yes,true_positive
+116,https://stanbicibtc-login.top/secure-login,phishing,brand_risky_tld_scam_path,danger,Not official Stanbic IBTC,yes,true_positive
+117,https://ecobank-verify.xyz/kyc-update,phishing,brand_risky_tld_scam_path,danger,Not official Ecobank,yes,true_positive
+118,https://keystonebank-unlock.site/unlock-account,phishing,brand_risky_tld_scam_path,danger,Not official Keystone Bank,yes,true_positive
+119,https://jaizbank-update.info/update-account,phishing,brand_risky_tld_scam_path,danger,Not official Jaiz Bank,yes,true_positive
+120,https://gtbank.com.phishing-test.xyz/verify-bvn,phishing,brand_risky_tld_scam_path,danger,Not official GTBank,yes,true_positive

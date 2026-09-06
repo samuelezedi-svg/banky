@@ -1,0 +1,16 @@
+metric,count,notes
+legitimate_nigerian_official_domains,55,Unique official domains from src/lib/banks.js allowlist
+other_legitimate_sites,20,Non-bank legitimate control URLs
+sample_count_legitimate,75,Question 5 (official + other legit)
+sample_count_localized_phishing,45,Question 6
+true_positive,44,Question 7: phishing correctly flagged
+false_negative,1,Question 8: phishing that bypassed the check
+true_negative,75,Question 9: legitimate addresses safely passed
+false_positive,0,Question 10: false alerts on legitimate addresses
+total_samples,120,"Offline PoC evaluation, balanced sensitivity"
+accuracy_percent,99.2,(TP+TN)/N
+recall_percent,97.8,TP/(TP+FN)
+specificity_percent,100.0,TN/(TN+FP)
+precision_percent,100.0,TP/(TP+FP)
+sensitivity_mode,balanced,NairaShield default
+positive_definition,danger_or_caution,Any user-facing alert counts as flagged

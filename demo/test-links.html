@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>NairaShield demo links</title>
+    <style>
+      body {
+        margin: 0;
+        font-family: "Avenir Next", "Segoe UI", sans-serif;
+        background: #070b14;
+        color: #f4ede0;
+        padding: 48px 24px;
+      }
+      main {
+        width: min(640px, 100%);
+        margin: 0 auto;
+      }
+      a {
+        color: #e0b44a;
+      }
+      li {
+        margin: 10px 0;
+        line-height: 1.5;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>NairaShield demo</h1>
+      <p>After you load the extension, click these to see Safe, Caution, and Danger states.</p>
+      <ul>
+        <li><a href="https://www.gtbank.com/">Official GTBank</a></li>
+        <li><a href="https://www.firstbanknigeria.com/">Official First Bank</a></li>
+        <li><a href="https://www.gtbannk.com/verify-bvn">Fake GTBank typo + BVN path</a></li>
+        <li><a href="https://accessbank-login.xyz/update-account">Fake Access Bank login</a></li>
+        <li><a href="https://zenithbank-secure.site/reactivate">Fake Zenith reactivate page</a></li>
+      </ul>
+      <h2>Local fake-bank hosts</h2>
+      <p>Start <code>node demo/local-banks/server.js</code> and add <code>demo/local-banks/hosts.txt</code> to <code>/etc/hosts</code>. These pages load on this computer so the warning screen has a real-looking portal behind it.</p>
+      <ul>
+        <li><a href="http://accessbank-login.test:8787/update-account">Local Access Bank login</a></li>
+        <li><a href="http://gtbannk.test:8787/verify-bvn">Local GTBank BVN page</a></li>
+        <li><a href="http://zenithbank-secure.test:8787/reactivate">Local Zenith reactivate page</a></li>
+        <li><a href="http://firstbank-login.test:8787/secure-login">Local First Bank login</a></li>
+        <li><a href="http://kuda-verify.test:8787/nin-verify">Local Kuda NIN page</a></li>
+      </ul>
+    </main>
+  </body>
+</html>

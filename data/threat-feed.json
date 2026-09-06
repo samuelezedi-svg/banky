@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "updatedAt": "2026-09-03T12:00:00Z",
+  "allowlist": [],
+  "blacklist": [
+    { "host": "gtbannk.com", "reason": "GTBank typosquat" },
+    { "host": "accessbank-login.xyz", "reason": "Access Bank impersonation" },
+    { "host": "zenithbank-secure.site", "reason": "Zenith Bank impersonation" },
+    { "host": "firstbanknigerla.com", "reason": "First Bank typosquat" },
+    { "host": "zenithbanl.com", "reason": "Zenith Bank typosquat" },
+    { "host": "accessbankplcc.com", "reason": "Access Bank typosquat" },
+    { "host": "gtbank-secure.xyz", "reason": "GTBank impersonation" },
+    { "host": "firstbank-login.top", "reason": "First Bank impersonation" },
+    { "host": "uba-online.club", "reason": "UBA impersonation" },
+    { "host": "zenithbank-verify.info", "reason": "Zenith Bank impersonation" },
+    { "host": "accessbank-kyc.online", "reason": "Access Bank impersonation" },
+    { "host": "cbn-verify.xyz", "reason": "CBN impersonation" },
+    { "host": "ndic-claim.online", "reason": "NDIC impersonation" },
+    { "host": "nimc-nin.site", "reason": "NIMC impersonation" },
+    { "host": "enaira-activate.top", "reason": "eNaira impersonation" },
+    { "host": "xn--gtbnk-3ve.com", "reason": "GTBank punycode lookalike" }
+  ]
+}

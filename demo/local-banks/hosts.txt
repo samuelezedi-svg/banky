@@ -1,0 +1,7 @@
+# NairaShield local demo banks
+# Add these lines to /etc/hosts, then open http://accessbank-login.test:8787/update-account
+127.0.0.1 accessbank-login.test
+127.0.0.1 gtbannk.test
+127.0.0.1 zenithbank-secure.test
+127.0.0.1 firstbank-login.test
+127.0.0.1 kuda-verify.test
