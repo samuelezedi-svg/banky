@@ -6,3 +6,5 @@ dist/
 .env
 .env.*
 key-p.pem
+*.docx
+Samuel_EZEDI_Final_Project_Submission_Final*.docx
